@@ -1,6 +1,6 @@
 {
   "name": "Dorino — Italiano",
-  "description": "Estensioni italiane dalla raccolta doGior, con Arte. Autori e download originali.",
+  "description": "Estensioni italiane da doGior e PriSynx, con Arte. Autori e download originali.",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/dori16/dorino/main/plugins.json"
