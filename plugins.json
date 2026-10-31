@@ -366,10 +366,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/PriSynx.png",
-    "fileHash": "sha256-e90a7c42c1b7626613c4d9d954049433eb3aa38a9f44915c7dbf2751e6e0bb68",
+    "fileHash": "sha256-5c06b59ea33305ef384e1ff2e53c4a636cb169c036a0757439c0ab1afe1224a4",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 519391,
+    "fileSize": 536490,
     "status": 1,
     "language": "it",
     "authors": [
