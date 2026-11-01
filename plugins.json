@@ -279,10 +279,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/KissKH.png",
-    "fileHash": "sha256-be2ed06379550d1a531b6e713cfe310bea32b7d9b09657b810eb0ff1e1aa85dd",
+    "fileHash": "sha256-6bc32e18bfd63dc1f73099c5dd7f2b552fa204a004607c6d1af60b8b8b47bee0",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 216930,
+    "fileSize": 219461,
     "status": 1,
     "language": "it",
     "authors": [
@@ -295,7 +295,7 @@
       "Anime",
       "AnimeMovie"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "KissKH",
     "description": "Catalogo KissKH nativo, drama e film asiatici con sottotitoli ITA/ENG e traduzione DeepL opzionale.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/KissKH.cs3",
@@ -366,10 +366,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/PriSynx.png",
-    "fileHash": "sha256-5c06b59ea33305ef384e1ff2e53c4a636cb169c036a0757439c0ab1afe1224a4",
+    "fileHash": "sha256-b69f17c682947b68da4447dfef998b2076932f83033380664e901036ec182932",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 536490,
+    "fileSize": 539334,
     "status": 1,
     "language": "it",
     "authors": [
@@ -382,7 +382,7 @@
       "AsianDrama",
       "Live"
     ],
-    "version": 14,
+    "version": 15,
     "internalName": "PriSynx",
     "description": "PriSynx: tutte le sorgenti in un'unica estensione (RaiPlay e KissKH inclusi), con menu TV per scegliere provider, ordine, cataloghi TMDB, TopX, anime, RaiPlay, KissKH e servizi debrid (con attesa del download) per IlCorsaroViola.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/PriSynx.cs3",
