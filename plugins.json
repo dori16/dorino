@@ -366,10 +366,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/PriSynx.png",
-    "fileHash": "sha256-b69f17c682947b68da4447dfef998b2076932f83033380664e901036ec182932",
+    "fileHash": "sha256-f5259d6d39b6bf6c5830628bfa520e520abecc192a4e31fe28a17b221e9fd9ea",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 539334,
+    "fileSize": 539886,
     "status": 1,
     "language": "it",
     "authors": [
@@ -382,7 +382,7 @@
       "AsianDrama",
       "Live"
     ],
-    "version": 15,
+    "version": 17,
     "internalName": "PriSynx",
     "description": "PriSynx: tutte le sorgenti in un'unica estensione (RaiPlay e KissKH inclusi), con menu TV per scegliere provider, ordine, cataloghi TMDB, TopX, anime, RaiPlay, KissKH e servizi debrid (con attesa del download) per IlCorsaroViola.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/PriSynx.cs3",
