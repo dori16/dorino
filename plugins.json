@@ -366,10 +366,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/PriSynx.png",
-    "fileHash": "sha256-1fc89be59735754d5b7b202abb0748f310a008276d31bdb04c2bb0513dde41c4",
+    "fileHash": "sha256-d1680000155360b2b501f0ea1572c47759c892267edba1920f217f446a539ff4",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 539374,
+    "fileSize": 539327,
     "status": 1,
     "language": "it",
     "authors": [
@@ -382,11 +382,31 @@
       "AsianDrama",
       "Live"
     ],
-    "version": 20,
+    "version": 26,
     "internalName": "PriSynx",
-    "description": "PriSynx: tutte le sorgenti in un'unica estensione (RaiPlay e KissKH inclusi), con menu TV per scegliere provider, ordine, cataloghi TMDB, TopX, anime, RaiPlay, KissKH e servizi debrid (con attesa del download) per IlCorsaroViola.",
+    "description": "PriSynx: tutte le sorgenti in un'unica estensione (RaiPlay e KissKH inclusi), con menu TV per scegliere provider, ordine, cataloghi TMDB, TopX, anime, RaiPlay, KissKH, servizi debrid (con attesa del download) per IlCorsaroViola.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/PriSynx.cs3",
     "name": "PriSynx"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/VavooLive.png",
+    "fileHash": "sha256-d58c069453d4d30ec1006aa1b9928a9f93fe22318e88aaf6c1d694fd535a470c",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
+    "fileSize": 75095,
+    "status": 1,
+    "language": "it",
+    "authors": [
+      "PriSynx"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "PriSynxLive",
+    "description": "PriSynx Live: TV in diretta Vavoo (nazioni selezionabili, EPG Italia) ed eventi sportivi live SportzX (F1, MotoGP, calcio, NBA, NHL, UFC...), con impostazioni per nazioni, sport e canali DRM.",
+    "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/PriSynxLive.cs3",
+    "name": "PriSynxLive"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/RaiPlay.png",
@@ -503,6 +523,26 @@
     "description": "Toonitalia: cartoni animati e anime in italiano.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/Toonitalia.cs3",
     "name": "Toonitalia"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/VavooLive.png",
+    "fileHash": "sha256-c49bb33ea2bbec6f29057051e96ba7fb37750fed70b8358fb259668563f2da4e",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
+    "fileSize": 44409,
+    "status": 1,
+    "language": "it",
+    "authors": [
+      "PriSynx"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 4,
+    "internalName": "VavooLive",
+    "description": "Vavoo Live: canali TV in diretta (Italia di default, altre nazioni selezionabili da PriSynx) con copertine TvVoo.",
+    "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/VavooLive.cs3",
+    "name": "VavooLive"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/VidxGo.png",
