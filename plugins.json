@@ -390,10 +390,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/VavooLive.png",
-    "fileHash": "sha256-d58c069453d4d30ec1006aa1b9928a9f93fe22318e88aaf6c1d694fd535a470c",
+    "fileHash": "sha256-5daea749b517e547952c7dba75d7b0170200e099539e06ca3dc6450655e9ad28",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 75095,
+    "fileSize": 76136,
     "status": 1,
     "language": "it",
     "authors": [
@@ -402,7 +402,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "PriSynxLive",
     "description": "PriSynx Live: TV in diretta Vavoo (nazioni selezionabili, EPG Italia) ed eventi sportivi live SportzX (F1, MotoGP, calcio, NBA, NHL, UFC...), con impostazioni per nazioni, sport e canali DRM.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/PriSynxLive.cs3",
