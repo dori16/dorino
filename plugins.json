@@ -52,7 +52,7 @@
       "doGior"
     ],
     "description": "Anime from AnimeUnity",
-    "fileSize": 134674,
+    "fileSize": 134673,
     "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
     "language": "it",
     "tvTypes": [
@@ -62,7 +62,7 @@
     ],
     "iconUrl": "https://www.animeunity.to/apple-touch-icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2c744e7d10b243353aceae61d335a3dd03b607c7acc69a91496d852c17d6e9ac"
+    "fileHash": "sha256-0798a1a517c40ffdd650e2249d0daa9783cc45dccd227adc54925f61cfd2c4a8"
   },
   {
     "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/AnimeWorld.cs3",
@@ -455,14 +455,14 @@
   {
     "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/StreamCenter.cs3",
     "status": 1,
-    "version": 13,
+    "version": 14,
     "name": "StreamCenter",
     "internalName": "StreamCenter",
     "authors": [
       "Italiani"
     ],
     "description": "Film, Serie TV, Anime e TV in un unico posto.",
-    "fileSize": 5788725,
+    "fileSize": 5905988,
     "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
     "language": "it",
     "tvTypes": [
@@ -476,7 +476,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/master/StreamCenter/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-83ce15b0ce2f19a8f4d528c12c20f7ef3b9f06f593dd9c64127923b5795afe75"
+    "fileHash": "sha256-429ea21896fbd11f77e414ea8dbf1731ca00640d114eb1718a0e57d622bcfddd"
   },
   {
     "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/StreamingCommunity.cs3",
