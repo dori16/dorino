@@ -45,14 +45,14 @@
   {
     "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/AnimeUnity.cs3",
     "status": 1,
-    "version": 28,
+    "version": 29,
     "name": "AnimeUnity",
     "internalName": "AnimeUnity",
     "authors": [
       "doGior"
     ],
     "description": "Anime from AnimeUnity",
-    "fileSize": 134673,
+    "fileSize": 134706,
     "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
     "language": "it",
     "tvTypes": [
@@ -62,7 +62,7 @@
     ],
     "iconUrl": "https://www.animeunity.to/apple-touch-icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-0798a1a517c40ffdd650e2249d0daa9783cc45dccd227adc54925f61cfd2c4a8"
+    "fileHash": "sha256-c23ec91d08adfdda43bb5307ef4bc6d73ba7459bbbfe1e98e53908a46eea860c"
   },
   {
     "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/AnimeWorld.cs3",
@@ -462,7 +462,7 @@
       "Italiani"
     ],
     "description": "Film, Serie TV, Anime e TV in un unico posto.",
-    "fileSize": 5905988,
+    "fileSize": 5905970,
     "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
     "language": "it",
     "tvTypes": [
@@ -476,19 +476,19 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/master/StreamCenter/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-429ea21896fbd11f77e414ea8dbf1731ca00640d114eb1718a0e57d622bcfddd"
+    "fileHash": "sha256-07e996079d23bc10b64b19d59dcda8af050d0aa372fe685283e009bf5edecd9e"
   },
   {
     "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/StreamingCommunity.cs3",
     "status": 1,
-    "version": 34,
+    "version": 35,
     "name": "StreamingCommunity",
     "internalName": "StreamingCommunity",
     "authors": [
       "doGior"
     ],
     "description": "TV Shows and Movies from StreamingCommunity",
-    "fileSize": 61030,
+    "fileSize": 61053,
     "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
     "language": "it",
     "tvTypes": [
@@ -499,7 +499,7 @@
     ],
     "iconUrl": "https://streamingunity.dog/apple-touch-icon.png?v=2",
     "apiVersion": 1,
-    "fileHash": "sha256-a4be93a2cb073b974c7d1cca708a57d4f96a3e55f022bd29002a8e83f9cde54f"
+    "fileHash": "sha256-c2b781eac5c6ee78de744b83c8f61c06c390e3eba35b01775f4ac519a1f8e971"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/Toonitalia.png",
