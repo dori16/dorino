@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/Altadefinizione.png",
-    "fileHash": "sha256-7ca664a761fbea6db7f2851749e2d5466f72b7369ec4b472bd2809d067b56adf",
+    "fileHash": "sha256-832ec8c6873d3bc28fc4491ead5f00e8d4fe9933cdb86f3147dd1abd45c54aef",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 179242,
+    "fileSize": 189121,
     "status": 1,
     "language": "it",
     "authors": [
@@ -22,10 +22,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/AnimeSaturn.png",
-    "fileHash": "sha256-ad882950901f04ff330b84f49d67477221c36412bd6afa691b47e905042de633",
+    "fileHash": "sha256-2366fd891511d350e3430185e6d2a31a7eedb2000be61b9c5a66b3807da74016",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 192700,
+    "fileSize": 205739,
     "status": 1,
     "language": "it",
     "authors": [
@@ -36,9 +36,9 @@
       "AnimeMovie",
       "OVA"
     ],
-    "version": 3,
+    "version": 4,
     "internalName": "AnimeSaturn",
-    "description": "AnimeSaturn: anime sub ITA e ITA con mapping TMDB.",
+    "description": "AnimeSaturn: anime sub ITA e ITA con mapping TMDB, sezioni della home e filtri locali.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/AnimeSaturn.cs3",
     "name": "AnimeSaturn"
   },
@@ -131,10 +131,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/CB01.png",
-    "fileHash": "sha256-d008d50e0f415c01f2c3478b308889e07254f6b2dde1605d91afe1636dd3ec19",
+    "fileHash": "sha256-4aff68505426b1be25105dc492f6b7c81790c316699079264e99cb77af07cba4",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 187063,
+    "fileSize": 197179,
     "status": 1,
     "language": "it",
     "authors": [
@@ -173,10 +173,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/DualSync.png",
-    "fileHash": "sha256-0989c2cdf2f61f3cc5bc57a9d7dffe5871166ac49b55244f393781f924b75ed4",
+    "fileHash": "sha256-d890d3ae9d01c6f60414352f9e8fd0f8c3a429c1ce96cae40c18bb2c151551ef",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 194465,
+    "fileSize": 204261,
     "status": 1,
     "language": "it",
     "authors": [
@@ -194,10 +194,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/Eurostreaming.png",
-    "fileHash": "sha256-1f0d55889f2cd47526da4cd8849a3462d8e0992ecf27dc8f6f92d52b4ceecdd2",
+    "fileHash": "sha256-343cf43b529487dd0dd2857350e48b7f76a63bf04cdd34f1d2a809c91f538652",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 181278,
+    "fileSize": 191205,
     "status": 1,
     "language": "it",
     "authors": [
@@ -215,10 +215,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/Filmez.png",
-    "fileHash": "sha256-ef85bb31a83d29274b46649c661d563d58e5488c3993df0fa256bab66f979053",
+    "fileHash": "sha256-ee0e6fbaceec880228891d3c41367fbd819aeeac5372bf508dab21cd35fbbff8",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 175063,
+    "fileSize": 184828,
     "status": 1,
     "language": "it",
     "authors": [
@@ -235,10 +235,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/Guardoserie.png",
-    "fileHash": "sha256-9d3fde41845b569951c2ffae64337abeb4ede97df0fe14af56d24c5fb7751546",
+    "fileHash": "sha256-1cf705385ef16ecb4364f966cea95a164ba01cec9ae37dd541999c77057ffdc0",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 200090,
+    "fileSize": 209667,
     "status": 1,
     "language": "it",
     "authors": [
@@ -279,10 +279,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/KissKH.png",
-    "fileHash": "sha256-2dfef9bcefd742d9cc4950b9efd1489b2f78f8e906030d28661c41a113a6872e",
+    "fileHash": "sha256-c4942e89369677a0778b38515a4afa5e3d64bff6c693be2fa07ea856a95d6771",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 228001,
+    "fileSize": 238629,
     "status": 1,
     "language": "it",
     "authors": [
@@ -295,7 +295,7 @@
       "Anime",
       "AnimeMovie"
     ],
-    "version": 4,
+    "version": 6,
     "internalName": "KissKH",
     "description": "Catalogo KissKH nativo, drama e film asiatici con sottotitoli ITA/ENG e traduzione DeepL opzionale.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/KissKH.cs3",
@@ -303,10 +303,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/MovyITA.png",
-    "fileHash": "sha256-558533a622228ddeac07460e67e77bc504b94391edd9ef331dd10b76221b85bf",
+    "fileHash": "sha256-661a054766fc4650c7794b4c53be752e7b56573dea4b2e294fc6b739159f6400",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 196769,
+    "fileSize": 206370,
     "status": 1,
     "language": "it",
     "authors": [
@@ -324,10 +324,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/OnlineSerieTV.png",
-    "fileHash": "sha256-fd6d115cf5f37026e86e1d766c42ccbb68950f171500f534e70b9ef6013737fe",
+    "fileHash": "sha256-9000b18cd2c486d69aa9b5a46186479544837f56b96af3e259adbf7418dda2f1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 175119,
+    "fileSize": 184927,
     "status": 1,
     "language": "it",
     "authors": [
@@ -345,10 +345,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/PaCC.png",
-    "fileHash": "sha256-ad9f0cd08db3b489cb3059e4d6dbd27e628966c22306cd0fb6673ee3d5718ba5",
+    "fileHash": "sha256-7042f6026fbb3de0bf959e5cc0a516ec96e217e887bc0b5ef3698204af549b11",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 180202,
+    "fileSize": 190175,
     "status": 1,
     "language": "it",
     "authors": [
@@ -366,10 +366,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/PriSynx.png",
-    "fileHash": "sha256-608239decb73813b29e1dcad31ae4a8d86868e7f7bebd423174e8a1acb7212bd",
+    "fileHash": "sha256-4420772eb72eb9aca352f7cc888f7d9c0112474be92b021f8fec89fa334dd5a5",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 548972,
+    "fileSize": 563184,
     "status": 1,
     "language": "it",
     "authors": [
@@ -382,7 +382,7 @@
       "AsianDrama",
       "Live"
     ],
-    "version": 29,
+    "version": 31,
     "internalName": "PriSynx",
     "description": "PriSynx: tutte le sorgenti in un'unica estensione (RaiPlay e KissKH inclusi), con menu TV per scegliere provider, ordine, cataloghi TMDB, TopX, anime, RaiPlay, KissKH, servizi debrid (con attesa del download) per IlCorsaroViola.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/PriSynx.cs3",
@@ -432,10 +432,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/RealTime.png",
-    "fileHash": "sha256-60fa985c12f7022a49fccdef85101316213d3d8abe3f3a0c01d5d256c661668a",
+    "fileHash": "sha256-ce972708961323a2a170ebe6d4555482c6c745865ed77b72ad5d3ee3315e4d1a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 195307,
+    "fileSize": 204902,
     "status": 1,
     "language": "it",
     "authors": [
@@ -503,10 +503,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/Toonitalia.png",
-    "fileHash": "sha256-935a6d4b6d63fa064bcfe7e9af236b1cc93711c07be300f675ecda220d182875",
+    "fileHash": "sha256-025ceba7cd78d3ee62aaf13eb6b420e43542f05274797ed197610e02fad2d731",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 194215,
+    "fileSize": 204092,
     "status": 1,
     "language": "it",
     "authors": [
@@ -546,10 +546,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/VidxGo.png",
-    "fileHash": "sha256-e120773b944c1d145975d7442e96b631e357c133e3fe5b6d117bab8618c56c12",
+    "fileHash": "sha256-3f06d1cdb26531514d602010b7c9efd0d4a324953ffc8ba00b864c8fbf9cda67",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 184564,
+    "fileSize": 194541,
     "status": 1,
     "language": "it",
     "authors": [
@@ -567,10 +567,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/VixSrc.png",
-    "fileHash": "sha256-e16cf4a1839f677b8c2fc2a42a5475bccc91db4227e18fe4575322ad19583292",
+    "fileHash": "sha256-cf371149d51b80d2953396ff54031cbf7d703ce8087c366c9bfd0f7a6d8f9ee7",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 181119,
+    "fileSize": 191225,
     "status": 1,
     "language": "it",
     "authors": [
