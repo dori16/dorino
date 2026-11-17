@@ -45,14 +45,14 @@
   {
     "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/AnimeUnity.cs3",
     "status": 1,
-    "version": 29,
+    "version": 30,
     "name": "AnimeUnity",
     "internalName": "AnimeUnity",
     "authors": [
       "doGior"
     ],
     "description": "Anime from AnimeUnity",
-    "fileSize": 134706,
+    "fileSize": 151019,
     "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
     "language": "it",
     "tvTypes": [
@@ -60,9 +60,9 @@
       "Anime",
       "OVA"
     ],
-    "iconUrl": "https://www.animeunity.to/apple-touch-icon.png",
+    "iconUrl": "https://animeunity.cx/icon/apple-touch-icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c23ec91d08adfdda43bb5307ef4bc6d73ba7459bbbfe1e98e53908a46eea860c"
+    "fileHash": "sha256-30ec1c65396a8629258a3761adee7a2f9397ff11bf2add5a84e322c5271a3704"
   },
   {
     "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/AnimeWorld.cs3",
@@ -366,10 +366,30 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/PriSynx.png",
-    "fileHash": "sha256-2210f20fbcc3b5d22435c8f43d1ecbad39ea08c4fe5b4ff44e85fd3964a6286f",
+    "fileHash": "sha256-f535992d630dc0bffacf12af734ea195da5ec339ca80baf4607cc2b571bacead",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 562886,
+    "fileSize": 205152,
+    "status": 1,
+    "language": "it",
+    "authors": [
+      "PriSynx"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 1,
+    "internalName": "PriSync",
+    "description": "PriSync: salva e ripristina con un PIN tutta la configurazione di CloudStream (repository, plugin, impostazioni dei plugin, cronologia, preferiti). I plugin mancanti vengono riscaricati in automatico al riavvio.",
+    "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/PriSync.cs3",
+    "name": "PriSync"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/PriSynx.png",
+    "fileHash": "sha256-4858171e770caef7fefd1c436c1f05a0a517b73c7ffc2a36ea53fa5c760aed65",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
+    "fileSize": 564135,
     "status": 1,
     "language": "it",
     "authors": [
@@ -382,7 +402,7 @@
       "AsianDrama",
       "Live"
     ],
-    "version": 31,
+    "version": 32,
     "internalName": "PriSynx",
     "description": "PriSynx: tutte le sorgenti in un'unica estensione (RaiPlay e KissKH inclusi), con menu TV per scegliere provider, ordine, cataloghi TMDB, TopX, anime, RaiPlay, KissKH, servizi debrid (con attesa del download) per IlCorsaroViola.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/PriSynx.cs3",
@@ -462,7 +482,7 @@
       "Italiani"
     ],
     "description": "Film, Serie TV, Anime e TV in un unico posto.",
-    "fileSize": 5905970,
+    "fileSize": 5905939,
     "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
     "language": "it",
     "tvTypes": [
@@ -476,7 +496,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/master/StreamCenter/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-07e996079d23bc10b64b19d59dcda8af050d0aa372fe685283e009bf5edecd9e"
+    "fileHash": "sha256-76081259eddf1dae9a59149374c94484f55dac1175a2d225325163e54808f592"
   },
   {
     "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/StreamingCommunity.cs3",
