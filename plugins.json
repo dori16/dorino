@@ -366,10 +366,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/PriSynx.png",
-    "fileHash": "sha256-23e80bf761fbd6ec6c4e2688b6937cfb0427c2258c49823b82ee4b5cc813232a",
+    "fileHash": "sha256-58037606ca8475f4ea019d305406d66c50920e5e99c96895ddef25a256a156a7",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 206368,
+    "fileSize": 208992,
     "status": 1,
     "language": "it",
     "authors": [
@@ -378,7 +378,7 @@
     "tvTypes": [
       "Others"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "PriSync",
     "description": "PriSync: salva e ripristina con un PIN tutta la configurazione di CloudStream (repository, plugin, impostazioni dei plugin, cronologia, preferiti). I plugin mancanti vengono riscaricati in automatico al riavvio.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/PriSync.cs3",
@@ -386,10 +386,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/PriSynx.png",
-    "fileHash": "sha256-624a8ee93771d9d941fc959d38ff291e50346e453bcd7be8408236a72a951ac8",
+    "fileHash": "sha256-daeab4a04d6e44ba51fdb1b25a9b474d8f1b43f553289d91e1957d9b94dbe670",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 565354,
+    "fileSize": 567902,
     "status": 1,
     "language": "it",
     "authors": [
@@ -402,7 +402,7 @@
       "AsianDrama",
       "Live"
     ],
-    "version": 33,
+    "version": 34,
     "internalName": "PriSynx",
     "description": "PriSynx: tutte le sorgenti in un'unica estensione (RaiPlay e KissKH inclusi), con menu TV per scegliere provider, ordine, cataloghi TMDB, TopX, anime, RaiPlay, KissKH, servizi debrid (con attesa del download) per IlCorsaroViola.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/PriSynx.cs3",
