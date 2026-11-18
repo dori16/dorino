@@ -1,10 +1,10 @@
 [
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/Altadefinizione.png",
-    "fileHash": "sha256-832ec8c6873d3bc28fc4491ead5f00e8d4fe9933cdb86f3147dd1abd45c54aef",
+    "fileHash": "sha256-01422d1b4fa7aef7898f7b613403c30576b0dc4572eca104cec51c69b12a58a7",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 189121,
+    "fileSize": 190314,
     "status": 1,
     "language": "it",
     "authors": [
@@ -22,10 +22,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/AnimeSaturn.png",
-    "fileHash": "sha256-2366fd891511d350e3430185e6d2a31a7eedb2000be61b9c5a66b3807da74016",
+    "fileHash": "sha256-2b1eb8bebcbd0f79d1bc42ffccb77b76d1fab1e2fe72d222b1a53f560f02be75",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 205739,
+    "fileSize": 206880,
     "status": 1,
     "language": "it",
     "authors": [
@@ -131,10 +131,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/CB01.png",
-    "fileHash": "sha256-4aff68505426b1be25105dc492f6b7c81790c316699079264e99cb77af07cba4",
+    "fileHash": "sha256-7104f01f5168081ae6d433ad4655f34718a3bef232d49fe34e5dd188b2bda43a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 197179,
+    "fileSize": 198378,
     "status": 1,
     "language": "it",
     "authors": [
@@ -144,7 +144,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "CB01",
     "description": "CB01: film e serie TV in streaming.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/CB01.cs3",
@@ -173,10 +173,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/DualSync.png",
-    "fileHash": "sha256-d890d3ae9d01c6f60414352f9e8fd0f8c3a429c1ce96cae40c18bb2c151551ef",
+    "fileHash": "sha256-a2ae00179207c2bde331ebdfc281b8bea7306df617be9c6ba604285ab74cbbcc",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 204261,
+    "fileSize": 205360,
     "status": 1,
     "language": "it",
     "authors": [
@@ -194,10 +194,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/Eurostreaming.png",
-    "fileHash": "sha256-343cf43b529487dd0dd2857350e48b7f76a63bf04cdd34f1d2a809c91f538652",
+    "fileHash": "sha256-46bdf6d88c11086010a1161b08458a1dc2514945833a7e43fab34a182b227d3d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 191205,
+    "fileSize": 192525,
     "status": 1,
     "language": "it",
     "authors": [
@@ -207,7 +207,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "Eurostreaming",
     "description": "Eurostreaming: film e serie TV in streaming.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/Eurostreaming.cs3",
@@ -215,10 +215,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/Filmez.png",
-    "fileHash": "sha256-ee0e6fbaceec880228891d3c41367fbd819aeeac5372bf508dab21cd35fbbff8",
+    "fileHash": "sha256-58e0cf9f92c760137477e2f2b0157bc46260cd4b147619fe4e6b054f4a083996",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 184828,
+    "fileSize": 186066,
     "status": 1,
     "language": "it",
     "authors": [
@@ -227,7 +227,7 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "Filmez",
     "description": "Filmez: catalogo film WordPress via MaxStream.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/Filmez.cs3",
@@ -235,10 +235,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/Guardoserie.png",
-    "fileHash": "sha256-1cf705385ef16ecb4364f966cea95a164ba01cec9ae37dd541999c77057ffdc0",
+    "fileHash": "sha256-954dd998da2add5e651fba6ae213f217e98435556b5ca5f7096ddc18d1e7831e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 209667,
+    "fileSize": 210869,
     "status": 1,
     "language": "it",
     "authors": [
@@ -279,10 +279,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/KissKH.png",
-    "fileHash": "sha256-c4942e89369677a0778b38515a4afa5e3d64bff6c693be2fa07ea856a95d6771",
+    "fileHash": "sha256-76e75735f9c3a8a60ffb59ff48ad147c4f5383d48cee27a5672ee31a15dc036d",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 238629,
+    "fileSize": 239556,
     "status": 1,
     "language": "it",
     "authors": [
@@ -303,10 +303,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/MovyITA.png",
-    "fileHash": "sha256-661a054766fc4650c7794b4c53be752e7b56573dea4b2e294fc6b739159f6400",
+    "fileHash": "sha256-cb4099abb0df5fb21195690425d528cab764a58d9885449d447f4eb0150e2294",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 206370,
+    "fileSize": 207461,
     "status": 1,
     "language": "it",
     "authors": [
@@ -324,10 +324,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/OnlineSerieTV.png",
-    "fileHash": "sha256-9000b18cd2c486d69aa9b5a46186479544837f56b96af3e259adbf7418dda2f1",
+    "fileHash": "sha256-c1af6511aa7df51b6777dad90f65a0dac8d69539ca9aec89df340c2e73edab45",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 184927,
+    "fileSize": 186119,
     "status": 1,
     "language": "it",
     "authors": [
@@ -337,7 +337,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "OnlineSerieTV",
     "description": "OnlineSerieTV: film e serie TV WordPress via MaxStream.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/OnlineSerieTV.cs3",
@@ -345,10 +345,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/PaCC.png",
-    "fileHash": "sha256-7042f6026fbb3de0bf959e5cc0a516ec96e217e887bc0b5ef3698204af549b11",
+    "fileHash": "sha256-77cdb472307008c4f0b8d2fd71cbf44f70323505b6dbc7cfb81e9b2f158ffc51",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 190175,
+    "fileSize": 191169,
     "status": 1,
     "language": "it",
     "authors": [
@@ -366,10 +366,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/PriSynx.png",
-    "fileHash": "sha256-f535992d630dc0bffacf12af734ea195da5ec339ca80baf4607cc2b571bacead",
+    "fileHash": "sha256-23e80bf761fbd6ec6c4e2688b6937cfb0427c2258c49823b82ee4b5cc813232a",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 205152,
+    "fileSize": 206368,
     "status": 1,
     "language": "it",
     "authors": [
@@ -386,10 +386,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/PriSynx.png",
-    "fileHash": "sha256-4858171e770caef7fefd1c436c1f05a0a517b73c7ffc2a36ea53fa5c760aed65",
+    "fileHash": "sha256-624a8ee93771d9d941fc959d38ff291e50346e453bcd7be8408236a72a951ac8",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 564135,
+    "fileSize": 565354,
     "status": 1,
     "language": "it",
     "authors": [
@@ -402,7 +402,7 @@
       "AsianDrama",
       "Live"
     ],
-    "version": 32,
+    "version": 33,
     "internalName": "PriSynx",
     "description": "PriSynx: tutte le sorgenti in un'unica estensione (RaiPlay e KissKH inclusi), con menu TV per scegliere provider, ordine, cataloghi TMDB, TopX, anime, RaiPlay, KissKH, servizi debrid (con attesa del download) per IlCorsaroViola.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/PriSynx.cs3",
@@ -452,10 +452,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/RealTime.png",
-    "fileHash": "sha256-ce972708961323a2a170ebe6d4555482c6c745865ed77b72ad5d3ee3315e4d1a",
+    "fileHash": "sha256-40018d1e7ad7358147b093ee9b13d23843a659885ae45f1a8753afa17d34bdaf",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 204902,
+    "fileSize": 206108,
     "status": 1,
     "language": "it",
     "authors": [
@@ -523,10 +523,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/Toonitalia.png",
-    "fileHash": "sha256-025ceba7cd78d3ee62aaf13eb6b420e43542f05274797ed197610e02fad2d731",
+    "fileHash": "sha256-93cb84c823fe3c7ccb8d2ed129203b549c733c911157d1d8f23e56714a00d3b9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 204092,
+    "fileSize": 205204,
     "status": 1,
     "language": "it",
     "authors": [
@@ -566,10 +566,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/VidxGo.png",
-    "fileHash": "sha256-3f06d1cdb26531514d602010b7c9efd0d4a324953ffc8ba00b864c8fbf9cda67",
+    "fileHash": "sha256-3745e5c146c1f8ca580c87e3936bd8df336e0ed441b1286dccd047b05144fa9f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 194541,
+    "fileSize": 195803,
     "status": 1,
     "language": "it",
     "authors": [
@@ -587,10 +587,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/VixSrc.png",
-    "fileHash": "sha256-cf371149d51b80d2953396ff54031cbf7d703ce8087c366c9bfd0f7a6d8f9ee7",
+    "fileHash": "sha256-0bb7b753fb390fa38b64e53b38368bd6ae7a9f0cee5096ea2cc69a8409050836",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 191225,
+    "fileSize": 192582,
     "status": 1,
     "language": "it",
     "authors": [
