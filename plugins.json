@@ -410,10 +410,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/VavooLive.png",
-    "fileHash": "sha256-1a646092526741d30b7d16f980a5b0885a22f6704b35075cd23bc98d0bf3ce19",
+    "fileHash": "sha256-2cdaa893571a2c8667209d10dc041b6dffe833307055e3c0037a25b2442beff7",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 122850,
+    "fileSize": 128567,
     "status": 1,
     "language": "it",
     "authors": [
@@ -546,10 +546,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/VavooLive.png",
-    "fileHash": "sha256-c49bb33ea2bbec6f29057051e96ba7fb37750fed70b8358fb259668563f2da4e",
+    "fileHash": "sha256-974f51c8192485fc988ef7f13373eb39f28f27890e1fc87e622e0330c9c12e85",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 44409,
+    "fileSize": 50601,
     "status": 1,
     "language": "it",
     "authors": [
@@ -558,7 +558,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 4,
+    "version": 10,
     "internalName": "VavooLive",
     "description": "Vavoo Live: canali TV in diretta (Italia di default, altre nazioni selezionabili da PriSynx) con copertine TvVoo.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/VavooLive.cs3",
