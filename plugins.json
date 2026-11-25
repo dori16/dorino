@@ -52,7 +52,7 @@
       "doGior"
     ],
     "description": "Anime from AnimeUnity",
-    "fileSize": 151019,
+    "fileSize": 151029,
     "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
     "language": "it",
     "tvTypes": [
@@ -62,7 +62,7 @@
     ],
     "iconUrl": "https://animeunity.cx/icon/apple-touch-icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-30ec1c65396a8629258a3761adee7a2f9397ff11bf2add5a84e322c5271a3704"
+    "fileHash": "sha256-285f4d34eb72f0d7ea3fd3702c0209540abffd6f99e0ca33db64ea32f55166ab"
   },
   {
     "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/AnimeWorld.cs3",
@@ -410,10 +410,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/VavooLive.png",
-    "fileHash": "sha256-2cdaa893571a2c8667209d10dc041b6dffe833307055e3c0037a25b2442beff7",
+    "fileHash": "sha256-bd8faccbb62ff0c8643604bb38c1481d9d578ef5792cb4250c33eb8dbf71d238",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 128567,
+    "fileSize": 196656,
     "status": 1,
     "language": "it",
     "authors": [
@@ -422,9 +422,9 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 6,
+    "version": 11,
     "internalName": "PriSynxLive",
-    "description": "PriSynx Live: TV in diretta Vavoo (nazioni selezionabili, EPG Italia), eventi sportivi live SportzX ed eventi live Partite.cc (calcio, basket, motori, tennis in diretta HD), con impostazioni per nazioni, sport e canali DRM.",
+    "description": "PriSynx Live: TV in diretta Vavoo (nazioni selezionabili, EPG Italia), HTSport (canali Sky/DAZN IT e sport live con decodifica segmenti integrata), SportzX e Partite.cc.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/PriSynxLive.cs3",
     "name": "PriSynxLive"
   },
@@ -475,14 +475,14 @@
   {
     "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/StreamCenter.cs3",
     "status": 1,
-    "version": 14,
+    "version": 15,
     "name": "StreamCenter",
     "internalName": "StreamCenter",
     "authors": [
       "Italiani"
     ],
     "description": "Film, Serie TV, Anime e TV in un unico posto.",
-    "fileSize": 5905939,
+    "fileSize": 5954189,
     "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
     "language": "it",
     "tvTypes": [
@@ -496,7 +496,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/master/StreamCenter/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-76081259eddf1dae9a59149374c94484f55dac1175a2d225325163e54808f592"
+    "fileHash": "sha256-de0a52aab63e43446b96dc3c364711c2253136def629988c689dc7409a93b0d8"
   },
   {
     "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/StreamingCommunity.cs3",
