@@ -410,10 +410,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/main/assets/logos/VavooLive.png",
-    "fileHash": "sha256-bd8faccbb62ff0c8643604bb38c1481d9d578ef5792cb4250c33eb8dbf71d238",
+    "fileHash": "sha256-7823e6cc2acba3248076da54efeee881b594bce0765e8508eaa46f49262f6c5e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/qwertyuiop8899/prisynx_cs3",
-    "fileSize": 196656,
+    "fileSize": 199842,
     "status": 1,
     "language": "it",
     "authors": [
@@ -422,7 +422,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 11,
+    "version": 12,
     "internalName": "PriSynxLive",
     "description": "PriSynx Live: TV in diretta Vavoo (nazioni selezionabili, EPG Italia), HTSport (canali Sky/DAZN IT e sport live con decodifica segmenti integrata), SportzX e Partite.cc.",
     "url": "https://raw.githubusercontent.com/qwertyuiop8899/prisynx_cs3/builds/PriSynxLive.cs3",
